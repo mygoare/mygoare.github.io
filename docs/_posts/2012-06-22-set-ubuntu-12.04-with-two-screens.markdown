@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "设置ubuntu 12.04双屏幕显示"
+date:   2012-6-22 17:23
+categories: Tech
+---
+
+ubuntu 双屏幕显示的成功与否，很关键的是X server的存在。X server的位置在 /etc/X11/xorg.conf .
+
+首先，我们备份下X server文件：
+
+`sudo mv /etc/X11/xorg.conf /etc/X11/xorg.conf.backup`
+
+新建一X server：
+
+`touch /etc/X11/xorg.conf`
+
+然后找到 Nvidia Server Settings，打开。
+
+![](http://pic.yupoo.com/mygoare_v/C3M0OHlP/medium.jpg)
+
+选择 Configuration 里的选项。
+
+设置好后 点击 Save to X configuration File. 保存到 X server 文件里，就是我们开头备份新建的文件。
+
+第二个选项 Separate X screen (requires X restart) 需要 X server restart。 才能生效。
+
+推荐选择第三个选项（Twin View），成功的概率高些。然后可以再切换到第二个选项（Separate X screen） 
+
+重启 X server :
+
+`sudo restart lightdm`
+
+如果双屏成功了却出现了一些错误提示：
+
+`rm ~/.config/monitors.xml` 就可以了。
+
+当保存好了 X server 之后，重启 X server 或是重启电脑后，如果接有 双屏，就会自动切换到双屏所设定的模式。

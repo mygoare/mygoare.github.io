@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "App Store应用下载慢的解决办法 -- 翻墙"
+date:   2011-10-12 15:32
+categories: Apple Mac
+---
+
+昨天折腾了一天的iTunes，最开始的时候并不怎么会用，也很不习惯用，但是慢慢地便发现，iTunes确实很强大，用起来也是比较爽的。
+
+因为在官网上买了个itouch，所以先玩玩itunes热热身。
+
+用过itunes的，我想都知道itunes里页面的打开速度简直就是龟速，太慢了。如果下个应用什么的就更悲剧了，动不动就1，2个小时。。。好像是苹果服务器在中国的访问速度就这样。。。唉，伤不起啊。
+
+所以，为了加快App Store的应用下载速度，翻墙吧。。哈哈，如果你不知道翻墙是什么，我只能说，你是个可怜的孩子！
+
+翻墙推荐用自由门，不仅免费，而且速度还可以，虽然有时候会不太稳定，但自由门会一直持续更新，确保软件可用。或者你可以找VPN代理，一般都是要收费的，有些还有流量限制，不限流量的更贵些，舍得money的童鞋可以尝试。
+
+下面来做下App Store下载应用的测试：
+
+没有翻墙：
+
+![没翻墙](http://pic.yupoo.com/mygoare_v/Br7SC0Pp/LwwXM.png)
+
+已翻墙：
+
+![没翻墙](http://pic.yupoo.com/mygoare_v/Br7SCzJZ/xKa39.png)
+
+不用我多说吧，效果很明显的哈，说明下我是4M电信。
+
+如果大家没有条件翻墙的话，也可以查看我写的这篇
+[App Store应用下载慢的解决方法--修改hosts]({% post_url 2011-10-15-make-App-Store-download-faster-change-hosts %})
