@@ -1,12 +1,4 @@
-todo:
-
-* [ ] favicon
-* [ ] 对一些技术类文章 再深度 写写
-* [x] 部署去 github pages，到 docs 文件夹
-* [x] 绑定域名，blog.mygoare.com
-* [ ] features 文章
-* [ ] 生活记录居多，技术文章都放 github gist
-
+## Goare's Blog
 
 
 施工日志：
