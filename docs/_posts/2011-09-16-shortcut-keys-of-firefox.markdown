@@ -5,7 +5,7 @@ date:   2011-9-16 14:03
 categories: Tech
 ---
 
-![firefox火狐！](http://pic.yupoo.com/mygoare_v/BnaCEBlj/medium.jpg)
+![firefox火狐！](https://i.imgur.com/jsBV9GB.png)
 
 最近发现自己越来越喜欢用firefox浏览器了，以前看过文章说firefox浏览器由于自身和插件的影响，打开的速度很慢，确实也是如此吧，以前的时候也因为这个不是很喜欢firefox，用chrome用得多。
 

@@ -5,7 +5,7 @@ date:   2011-9-28 0:34
 categories: Diary
 ---
 
-![the future](http://pic.yupoo.com/mygoare_v/BoU1zcy8/medium.jpg)
+![the future](https://i.imgur.com/viA0E91.jpg)
 
 已经很久没写文字了，晚上大概10点多的时候，不知为什么人很困，早早地关了电脑躺床上睡了，却辗转1个多小时，没睡着，脑子里想得最多的还是未来...
 

@@ -5,7 +5,7 @@ date:   2011-10-4 16:26
 categories: Front end
 ---
 
-![css hack](http://pic.yupoo.com/mygoare_v/BpUNMpXe/medium.jpg)
+![css hack](https://i.imgur.com/fQ2a52Q.jpg)
 
 现在，浏览器的发展很快，但总会有那么些人放着优秀的浏览器不用，总守着原始的古董。上次小博经过一系列改造，已经不支持ie6进行访问了，如今ie已经更新到了ie9，win8将会搭载ie10浏览器...
 

@@ -5,7 +5,7 @@ date:   2012-5-7 22:57
 categories: Tech
 ---
 
-![](http://pic.yupoo.com/mygoare_v/BWPuxn6H/TgvuS.jpg)
+![](https://i.imgur.com/JRMfGDa.jpg)
 
 在Ubuntu下搭建LMAP环境，真的是太方便了。顺便把phpmyadmin也装上。
 

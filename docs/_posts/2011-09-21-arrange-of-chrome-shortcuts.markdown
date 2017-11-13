@@ -5,7 +5,7 @@ date:   2011-9-21 16:44
 categories: Tech
 ---
 
-![chrome浏览器](http://pic.yupoo.com/mygoare_v/BnWi9VmI/medium.jpg)
+![chrome浏览器](https://i.imgur.com/NAVeZwj.jpg)
 
 首先，我想说的是，以下我贴出来的快捷键真的很神，如果你也在用chrome浏览器，和我一样喜欢chrome浏览器，好好地认真地看下，试下下面的文字，简直就是太方便了，太酷，太爽了！
 

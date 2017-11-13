@@ -5,7 +5,7 @@ date:   2011-9-15 22:33
 categories: Tech
 ---
 
-![将笔记本改装成无线路由](http://pic.yupoo.com/mygoare_v/Bn43nMg6/medium.jpg)
+![将笔记本改装成无线路由](https://i.imgur.com/nu820Up.jpg)
 
 今天中午突发奇想，考虑着能不能把笔记本做成无线路由，现在的笔记本一般都配备有无线网卡，如果行的话，那将会是多么酷的一件事。这样就可以不用无线路由，搭建无线网络，手机也照上。
 

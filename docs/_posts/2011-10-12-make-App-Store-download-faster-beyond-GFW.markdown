@@ -19,11 +19,11 @@ categories: Apple Mac
 
 没有翻墙：
 
-![没翻墙](http://pic.yupoo.com/mygoare_v/Br7SC0Pp/LwwXM.png)
+![没翻墙](https://i.imgur.com/pglkBWA.png)
 
 已翻墙：
 
-![没翻墙](http://pic.yupoo.com/mygoare_v/Br7SCzJZ/xKa39.png)
+![没翻墙](https://i.imgur.com/GRkB4i3.png)
 
 不用我多说吧，效果很明显的哈，说明下我是4M电信。
 

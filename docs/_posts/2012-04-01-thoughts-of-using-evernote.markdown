@@ -9,7 +9,7 @@ categories: Tech
 
 不说废话了，先上张图，来个整体印象，哈哈！
 
-![](http://pic.yupoo.com/mygoare_v/BRjPcXlF/medium.jpg)
+![](https://i.imgur.com/FgwILGo.png)
 
 这就是传说中大名鼎鼎的evernote LOGO了，大象，嘻嘻。
 

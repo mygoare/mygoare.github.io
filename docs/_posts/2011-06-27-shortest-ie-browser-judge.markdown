@@ -5,7 +5,7 @@ date:   2011-06-27 09:37
 categories: Diary
 ---
 
-![最短的IE判断：!-[1,]](http://pic.yupoo.com/mygoare_v/BaBIQJYf/medium.jpg)
+![最短的IE判断：!-[1,]](https://i.imgur.com/QcaO2Uf.jpg)
 
 已经不记得在什么时候第一次看到这个了，不过当时仿佛是眼前一亮，随之而来的便是疑惑，短短的六个字符，就能辩明“真伪”。
 

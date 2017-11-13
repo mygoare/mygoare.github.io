@@ -5,7 +5,7 @@ date:   2012-2-21 2:05
 categories: Diary
 ---
 
-![曾经的比特工场！](http://pic.yupoo.com/mygoare_v/BL7qcv2E/medium.jpg)
+![曾经的比特工场！](https://i.imgur.com/eibiC4c.png)
 
 夜深了，不知为何想起曾经的比特工场，在浏览器里打开团队网站主页，想起自己曾经是比特主管的那段日子，现在的比特似乎已经离我远去，我已不再知晓比特的任何事件，还劝着Sunnist离开了比特。
 

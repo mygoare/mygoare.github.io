@@ -5,7 +5,7 @@ date:   2011-10-7 13:59
 categories: Diary
 ---
 
-![社交网络](http://pic.yupoo.com/mygoare_v/Bqmu4qq5/medium.jpg)
+![社交网络](https://i.imgur.com/oJr6Q4P.jpg)
 
 最近的时候，经常会去看《社交网络》，这是部自己暑假在北京时看到的电影，并下载了下来。每次看到马克时，他敏捷的头脑，惊人的语速，快速的行动力，不羁的装束，总让我惊喜不断，他是我的偶像。
 

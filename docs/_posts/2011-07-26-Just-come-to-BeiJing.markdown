@@ -5,7 +5,7 @@ date:   2011-7-26 19:00
 categories: Diary
 ---
 
-![北京西站—北漂](http://pic.yupoo.com/mygoare_v/Bfo41U8m/medium.jpg)
+![北京西站—北漂](https://i.imgur.com/KuoMdVZ.jpg)
 
 到北京已经差不多一天之久了，在北京的第一晚是在旅馆度过的，其实是去揩油的，在北京还没玩过，只是在北京西站下火车去公司途中在公交车上大概见识了下北京。 
 

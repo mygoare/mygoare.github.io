@@ -11,7 +11,7 @@ categories: Tech
 
 **环保主义软件开发**
 
-![](http://coolshell.cn/wp-content/uploads/2012/04/Green-Computing.jpg)
+![](https://i.imgur.com/U0OqvNc.jpg)
 
 先说说软件开发中的环保。比如：
 
@@ -25,7 +25,7 @@ categories: Tech
 
 “Friend Don’t Let Friend Use IE6”
 
-![](http://coolshell.cn/wp-content/uploads/2012/04/iecountdown2012.jpg)
+![](https://i.imgur.com/sk5WXuw.jpg)
 
 还有很多，我相信大家明白我想说什么。其实，我想说的是，这不单单是一种“个人修养”，这也是一种对社会贡献的方式，更是一种“低碳环保”的生活方式。
 

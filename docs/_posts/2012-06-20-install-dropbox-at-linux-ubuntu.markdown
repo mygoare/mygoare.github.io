@@ -11,7 +11,7 @@ categories: Tech
 
 首先，到dropbox官网下载
 
-![](http://pic.yupoo.com/mygoare_v/C3rvRT0W/medium.jpg)
+![](https://i.imgur.com/bCxfTJs.png)
 
 下载下来正常安装。这些都没什么，问题马上来了。
 
@@ -19,7 +19,7 @@ dropbox安装的只是一部分，它还需要下载安装daemon来完成。
 
 这时，你可以在 终端 中输入 dropbox:
 
-![](http://pic.yupoo.com/mygoare_v/C3rxplcq/medium.jpg)
+![](https://i.imgur.com/95LwWbn.png)
 
 如果再输入 dropbox start ，会报错并提示你 dropbox start -i 安装daemon（依赖文件）.
 

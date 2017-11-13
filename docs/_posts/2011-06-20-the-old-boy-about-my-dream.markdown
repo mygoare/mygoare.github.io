@@ -5,7 +5,7 @@ date:   2011-06-20 21:56
 categories: Diary
 ---
 
-![老男孩－坚持自己的梦想](http://pic.yupoo.com/mygoare_v/B9PqDpsv/j8rI3.jpg)
+![老男孩－坚持自己的梦想](https://i.imgur.com/qmLx73B.jpg)
 
 今天在鲜果看订阅博客时，突然翻到[《老男孩，梦想与青春无关》](http://www.soberma.com/dream-of-old-boy)这篇文章，自己不禁又重新再看了一遍，每次看都有新的感悟。
 

@@ -5,7 +5,7 @@ date:   2012-1-3 13:10
 categories: Front end
 ---
 
-![](http://pic.yupoo.com/mygoare_v/DnrSw4cD/rQwf2.png)
+![](https://i.imgur.com/zPzNGci.png)
 
 清理浮动！也叫闭合浮动元素！
 

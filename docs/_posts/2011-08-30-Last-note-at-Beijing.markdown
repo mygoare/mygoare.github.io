@@ -5,7 +5,7 @@ date:   2011-8-30 13:10
 categories: Diary
 ---
 
-![再见，北京](http://pic.yupoo.com/mygoare_v/BkzAHCgS/medium.jpg)
+![再见，北京](https://i.imgur.com/hI9vlx5.jpg)
 
 要离开北京了，晚上的T189，我将离去。
 

@@ -13,6 +13,4 @@ categories: Apple Mac
 
 需要添加的hosts [下载](http://dl.dbank.com/c0uecc4kwg)
 
-[](http://www.mygoare.com/admin/editor/plugins/emoticons/0.gif)
-
 

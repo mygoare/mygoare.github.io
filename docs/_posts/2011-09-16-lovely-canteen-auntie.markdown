@@ -5,7 +5,7 @@ date:   2011-9-16 22:18
 categories: Diary
 ---
 
-![第三食堂三楼](http://pic.yupoo.com/mygoare_v/Bndokj8m/medium.jpg)
+![第三食堂三楼](https://i.imgur.com/pKJEGPo.jpg)
 
 今天下午和往常一样去三食堂三楼吃饭，和往常一样，去以前那个阿姨里要了份煎鸡蛋，阿姨突然问我句：小伙子，你经常吃鸡蛋吗？你觉得鸡蛋咸吗？我当时有些惊讶，呵呵。答道：有时候咸，有时候不是很咸。随后阿姨很客气地说了句谢谢。 
 

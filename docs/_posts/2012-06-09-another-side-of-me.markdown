@@ -5,7 +5,7 @@ date:   2012-6-9 15:57
 categories: Diary
 ---
 
-![](http://pic.yupoo.com/mygoare_v/C1MXW178/medium.jpg)
+![](https://i.imgur.com/DzBtJIZ.jpg)
 
 今天，在YouKu上看到微电影[《另一个我》](http://v.youku.com/v_show/id_XNDAwNTU3OTI4.html)，很有感触。也就如同我如今的迷茫一样，看完短片后，似乎让我看清了些路。
 

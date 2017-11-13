@@ -5,7 +5,7 @@ date:   2011-06-22 02:29
 categories: Diary
 ---
 
-![《锋利的jQuery》](http://pic.yupoo.com/mygoare_v/Ba0w73fp/r5YPT.png)
+![《锋利的jQuery》](https://i.imgur.com/BWV6HIf.png)
 
 《锋利的jQuery》算是我jQuery上的一本启蒙书了，虽然在买书之前会去jQuery官网逛逛，硬盘里也下了1.4的jQuery参考手册，但学得太零散，学得没什么劲，感觉也没多少进步。
 

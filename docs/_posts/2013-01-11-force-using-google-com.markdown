@@ -7,7 +7,7 @@ categories: Diary
 
 Maybe my english is poor, but i like using it to write something here. I own my place
 
-![switch to google.com](http://pic.yupoo.com/mygoare_v/CyDyInyk/8pQpU.jpg)
+![switch to google.com](https://i.imgur.com/ggONLa5.jpg)
 
 Cause of the google.com.hk always alert me the ssl error, and I test the google.com is ok, so i switch all to google.com including chrome address searching, which default is using google.com.hk
 

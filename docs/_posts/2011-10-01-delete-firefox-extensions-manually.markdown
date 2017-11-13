@@ -9,11 +9,11 @@ categories: Front end
 
 安装skype的时候没注意选择，结果skype给我的Firefox安装了一个扩展，让我吐血的是想卸载这个扩展的时候却发现卸载的按钮是灰色的。
 
-![](http://pic.yupoo.com/mygoare_v/Bpr56PCd/E0TjL.png)
+![](https://i.imgur.com/INMIbUP.png)
 
 同样流氓的扩展还有安装JDK以后出现的两个Java Console
 
-![](http://pic.yupoo.com/mygoare_v/Bpr57vsa/qZl2v.png)
+![](https://i.imgur.com/c8fu7Am.png)
 
 没办法，看来得手工删除了。
 
@@ -39,6 +39,6 @@ categories: Front end
 
 skype的插件果然在里面
 
-![](http://pic.yupoo.com/mygoare_v/Bpr57UWg/hRRPY.png)
+![](https://i.imgur.com/QeKD5WL.png)
 
 删除几个相关的文件夹，重启firefox后那几个插件就消失了，问题解决

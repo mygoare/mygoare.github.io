@@ -5,7 +5,7 @@ date:   2011-06-26 01:05
 categories: Diary
 ---
 
-![](http://pic.yupoo.com/mygoare_v/BaBIQJYf/medium.jpg)
+![](https://i.imgur.com/nw0ulND.jpg)
 
 今天看了一天《Javascript高级程序设计（第2版）》，学到了很多的东西，这个以后再总结。这本书的一些描述比国内的那些垃圾所谓的JS入门教学书不知强多少倍，那些书简直就是误人子弟，只讲个大概的东西，最本质的却只字不提，这如何让读者去理解JS语言的奥秘精髓所在。其实也不用我多说吧，强烈推荐！！
 

@@ -5,7 +5,7 @@ date:   2011-10-3 1:13
 categories: Diary
 ---
 
-![学习](http://pic.yupoo.com/mygoare_v/BpFjne9e/medium.jpg)
+![学习](https://i.imgur.com/OmFBJX6.jpg)
 
 首先，作为一个成绩超级烂的学生来说，自认为是很没有资格来谈什么学习的，所以呢，这里写的只是些自己对学习的一些刻薄片面的看法。
 

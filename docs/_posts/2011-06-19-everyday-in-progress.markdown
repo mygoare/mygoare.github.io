@@ -5,7 +5,7 @@ date:   2011-06-19 19:08
 categories: Diary
 ---
 
-![每天进步一点点](http://pic.yupoo.com/mygoare_v/DnrUqCyC/cZbqy.jpg)
+![每天进步一点点](https://i.imgur.com/7DMJqsw.jpg)
 
 从今天起，做一个幸福的人；从今天起，每天进步一点点！
 

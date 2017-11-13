@@ -5,7 +5,7 @@ date:   2011-06-29 22:57
 categories: Diary
 ---
 
-![纪念，我们的历程！](http://pic.yupoo.com/mygoare_v/BbcyFpRa/medium.jpg)
+![纪念，我们的历程！](https://i.imgur.com/PUWS04u.jpg)
 
 今天晚上，站聊会转变成坐聊会了。
 

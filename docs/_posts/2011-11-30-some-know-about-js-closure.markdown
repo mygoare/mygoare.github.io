@@ -7,4 +7,4 @@ categories: Front end
 
 大概有些小搞懂Javascript闭包的一些原理，有些小兴奋，特贴图留念，大家仔细看图就知道了。
 
-![](http://pic.yupoo.com/mygoare_v/ByyrfCx8/medium.jpg)
+![](https://i.imgur.com/RCpT3pS.png)

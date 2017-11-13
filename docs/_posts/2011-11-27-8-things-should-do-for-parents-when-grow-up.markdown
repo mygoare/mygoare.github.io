@@ -5,7 +5,7 @@ date:   2011-11-27 13:29
 categories: Diary
 ---
 
-![](http://pic.yupoo.com/mygoare_v/By6QKoKZ/medium.jpg)
+![](https://i.imgur.com/Lch7hv7.jpg)
 
 1.  定期带父母去做体检 ；
 2.  父母的零花钱不能少；

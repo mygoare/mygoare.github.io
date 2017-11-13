@@ -23,7 +23,7 @@ Unicode编码长度可达到32位，即4字节。第一字节称为组，第二�
 
 ANSI编码与Unicode编码的不同。ANSI编码最常见的应用就是windows的记事本程序中，是记事本默认的保存编码格式，ANSI 算是一种压缩编码，当遇到标准的ASCII字符时，采用单字节表示，当遇到非标准的ASCII字符（如中文）是，采用双字节表示。
 
-![](http://pic.yupoo.com/mygoare_v/BCIx0tIz/yVxiX.png)
+![](https://i.imgur.com/S1BbgIH.png)
 
 这样一来，懂了吗？呵呵！
 
@@ -33,12 +33,12 @@ ANSI编码与Unicode编码的不同。ANSI编码最常见的应用就是windows�
 
 ANSI编码下文件大小：
 
-![](http://pic.yupoo.com/mygoare_v/BCIkSEgN/medium.jpg)
+![](https://i.imgur.com/gDXbUZ6.png)
 
 Utf8编码：
 
-![](http://pic.yupoo.com/mygoare_v/BCIkTmZw/medium.jpg)
+![](https://i.imgur.com/d2c3eHH.png)
 
 Utf8 without BOM 编码：
 
-![](http://pic.yupoo.com/mygoare_v/BCIkSQPn/medium.jpg)
+![](https://i.imgur.com/hiaM81f.png)

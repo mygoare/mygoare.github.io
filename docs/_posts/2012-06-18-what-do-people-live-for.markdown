@@ -5,7 +5,7 @@ date:   2012-6-18 11:02
 categories: Diary
 ---
 
-![](http://pic.yupoo.com/mygoare_v/C37RKEJu/medium.jpg)
+![](https://i.imgur.com/gIOPiH7.jpg)
 
 以前的时候，当自己非常失落或不得意，或报怨或厌世时，常常会思考这个问题。人都会死，那人为什么活着？
 

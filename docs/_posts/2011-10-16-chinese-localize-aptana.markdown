@@ -11,13 +11,13 @@ categories: Front end
 
 首先找开aptana的官网，进入support页面，点击view documentation，如图
 
-![](http://pic.yupoo.com/mygoare_v/BsMFB3no/medium.jpg)
+![](https://i.imgur.com/pjXsILY.png)
 
-![](http://pic.yupoo.com/mygoare_v/BsNMFWQJ/medium.jpg)
+![](https://i.imgur.com/xHRLr3c.png)
 
-![](http://pic.yupoo.com/mygoare_v/BsNMFFbi/medium.jpg)
+![](https://i.imgur.com/193vB3w.png)
 
-![](http://pic.yupoo.com/mygoare_v/BsNNOn7o/medium.jpg)
+![](https://i.imgur.com/jgprvHp.png)
 
 把红框内的网址复制到更新软件源里去就OK了。。。。
 

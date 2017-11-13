@@ -21,4 +21,4 @@ categories: Diary
 
 附张图，传说中“外国”友人留下的痕迹：
 
-![垃圾评论？外链？](http://pic.yupoo.com/mygoare_v/BblJHobo/medium.jpg)
+![垃圾评论？外链？](https://i.imgur.com/Jmhwtjx.png)

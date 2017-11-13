@@ -7,7 +7,7 @@ categories: Tech
 
 今天想着让自己的mac pro从U盘启动，做个系统备份盘。怎么从U盘启动呢？
 
-![mac 从U盘启动](http://farm9.staticflickr.com/8141/6989755690_431c44913b_z.jpg)
+![mac 从U盘启动](https://i.imgur.com/ICz6byf.jpg)
 
 如下：
 

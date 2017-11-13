@@ -5,7 +5,7 @@ date:   2011-06-22 23:59
 categories: Diary
 ---
 
-![当爱情来敲门](http://pic.yupoo.com/mygoare_v/Ba8U225u/x7sMa.jpg)
+![当爱情来敲门](https://i.imgur.com/8nNOVpA.jpg)
 
 当爱情来敲门，不想多说什么，也不想多想什么，我相信缘份，我相信爱情！就像学长说的：遇到了自己喜欢的合适的，就果断上吧！
 

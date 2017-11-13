@@ -5,7 +5,7 @@ date:   2011-06-21 22:52
 categories: Diary
 ---
 
-![jQuery之路](http://pic.yupoo.com/mygoare_v/EhE2UWwB/medium.jpg)
+![jQuery之路](https://i.imgur.com/rTmq6zK.png)
 
 记得最早听过jQuery还是在大二的时候，那时候只是听过名字，却一直不曾真正用过。
 

@@ -5,7 +5,7 @@ date:   2012-1-12 11:58
 categories: Diary
 ---
 
-![](http://pic.yupoo.com/mygoare_v/BF64awMM/medium.jpg)
+![](https://i.imgur.com/1RwIDUZ.jpg)
 
 这几天折腾把博客转到sinaapp了，顺便整理了下博客内容什么的，待一切基本完成（博客还有很多细节没有完善，我想要的一些效果还有很多没实现），我会再写一篇日志的。
 

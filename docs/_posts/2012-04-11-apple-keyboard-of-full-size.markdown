@@ -7,7 +7,7 @@ categories: Diary
 
 昨天在 京东 359元购入apple keyboard 全键盘，今天中午已经到手了，因为实在是有些小兴奋，所以想发发博文抒发下情感，呵呵，乱侃开始！
 
-![](http://pic.yupoo.com/mygoare_v/DnrSwfQ7/6HH8I.png)
+![](https://i.imgur.com/w0BjPhz.png)
 
 苹果的东西，一分钱一分贷不敢说，但绝对是买了就很少有后悔的，Designed by Apple 实在是太好用了。但都有些小贵。
 

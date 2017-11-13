@@ -5,7 +5,7 @@ date:   2011-06-25 00:25
 categories: Diary
 ---
 
-![爱情路上](http://pic.yupoo.com/mygoare_v/Bas9zVEw/iwryD.png)
+![爱情路上](https://i.imgur.com/8O7Su7n.png)
 
 从端午开始吧，那天晚上起，自己已经是有些动心了。也这么久了，感觉和她一起的时候总是那么快乐，即使是自己不高兴的时候，她说几句话，自己的心情也就好了起来。
 

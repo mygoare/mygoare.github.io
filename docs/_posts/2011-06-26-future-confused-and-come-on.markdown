@@ -5,7 +5,7 @@ date:   2011-06-26 00:04
 categories: Diary
 ---
 
-![爱情路上的奋斗](http://pic.yupoo.com/mygoare_v/BaBhDimN/fp5aG.jpg)
+![爱情路上的奋斗](https://i.imgur.com/tGqe8Md.jpg)
 
 不知不觉，晚上又和你聊了2个小时，我不知道为什么你会打电话过来，自己也不好问。
 

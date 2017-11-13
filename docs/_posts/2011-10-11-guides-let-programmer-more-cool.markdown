@@ -5,7 +5,7 @@ date:   2011-10-11 10:39
 categories: Diary
 ---
 
-![程序猿装B指南](http://pic.yupoo.com/mygoare_v/BqWyzMNP/medium.jpg)
+![程序猿装B指南](https://i.imgur.com/lNn3ovb.jpg)
 
 前些第一次看到这篇文章，搞笑之余，更多的还是思考。
 

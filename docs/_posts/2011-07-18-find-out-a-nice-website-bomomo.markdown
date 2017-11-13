@@ -7,7 +7,7 @@ categories: Diary
 
 先上图：
 
-![bomomo——在线涂鸦](http://pic.yupoo.com/mygoare_v/Be1iEDiz/medium.jpg)
+![bomomo——在线涂鸦](https://i.imgur.com/Eh31UE4.png)
 
 [网址](http://www.bomomo.com/)
 

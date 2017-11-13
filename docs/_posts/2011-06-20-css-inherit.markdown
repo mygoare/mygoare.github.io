@@ -5,7 +5,7 @@ date:   2011-06-20 15:44
 categories: Css
 ---
 
-![css继承](http://pic.yupoo.com/mygoare_v/B9N6bhn6/7iA0n.png)
+![css继承](https://i.imgur.com/HOKETOT.png)
 
 CSS的继承，感觉自己最开始接触到这个词的时候还不知道是何物，虽然自己那时在书写CSS代码的时候都一种在用这个概念，有点可笑，自己自学CSS都是网上看视频学的，没有些什么很系统的认识，这也是弊端吧。
 

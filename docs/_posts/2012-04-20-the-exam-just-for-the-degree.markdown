@@ -5,7 +5,7 @@ date:   2012-4-20 10:14
 categories: Diary
 ---
 
-![](http://pic.yupoo.com/mygoare_v/DnrRsUKb/cCMjw.jpg)
+![](https://i.imgur.com/ccCWuTA.jpg)
 
 昨天晚上，考《人工智能》，作为08级的学长吧，和10级的小弟弟小妹妹一起考试。。。
 

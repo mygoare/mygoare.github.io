@@ -5,7 +5,7 @@ date:   2011-07-06 01:42
 categories: Diary
 ---
 
-![这几天的日子](http://pic.yupoo.com/mygoare_v/Bc8izN4X/medium.jpg)
+![这几天的日子](https://i.imgur.com/H5MBbt0.jpg)
 
 博客已经有几些天没有写了，不过天天都会来看下，有时候是没有写的心情，有的时候，则是没有什么时间来写。
 

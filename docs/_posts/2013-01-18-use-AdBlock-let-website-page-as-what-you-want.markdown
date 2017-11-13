@@ -5,7 +5,7 @@ date:   2013-1-18 20:23
 categories: Diary
 ---
 
-![](http://pic.yupoo.com/mygoare_v/CzJJXPJN/medium.jpg)
+![](https://i.imgur.com/87aV56D.jpg)
 
 如果是没有听说过[AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?hl=zh-CN)的同学，我先科普下。它是Google Chrome浏览器的一个用于屏蔽广告的插件，非常好用，评分也很高，当之无愧的广告杀手。
 
@@ -15,4 +15,4 @@ categories: Diary
 
 网易文章页面（右边的文章推荐不见了）：
 
-![网易文章页面](http://pic.yupoo.com/mygoare_v/CzJD5GMD/medium.jpg)
+![网易文章页面](https://i.imgur.com/eh0bmMO.png)

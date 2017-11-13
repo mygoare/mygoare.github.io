@@ -7,7 +7,7 @@ categories: Diary
 
 今天是5月12日，08年汶川地震4周年的日子。
 
-![](http://pic.yupoo.com/mygoare_v/BXERmusl/medium.jpg)
+![](https://i.imgur.com/2V7zDiX.jpg)
 
 [《活着》](http://www.iqiyi.com/jilupian/20120508/0235988dfb47f12b.html)是一部现实拍摄的记录片，主要记录下一对在地震中失去女儿的40多岁夫妻再次求女的真实历程。很真实，很感人，没有去过灾区，没有经历过那样的痛楚，不会想像得到他们的生活。
 

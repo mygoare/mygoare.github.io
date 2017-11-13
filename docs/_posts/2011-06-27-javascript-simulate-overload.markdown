@@ -5,7 +5,7 @@ date:   2011-06-27 10:36
 categories: Diary
 ---
 
-![Javascript模拟重载](http://pic.yupoo.com/mygoare_v/BaBIQJYf/medium.jpg)
+![Javascript模拟重载](https://i.imgur.com/QGc6ka7.jpg)
 
 大家都知道，JS是没重载的，如果给JS定义了一个函数，再定义一个同名函数，结果只是后者把前者覆盖了。
 

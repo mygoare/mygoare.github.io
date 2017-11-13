@@ -5,7 +5,7 @@ date:   2011-9-1 23:31
 categories: Diary
 ---
 
-![在一起！](http://pic.yupoo.com/mygoare_v/BkWmLXEh/medium.jpg)
+![在一起！](https://i.imgur.com/TpQq5q1.jpg)
 
 今天，我的大闹一场； 
 

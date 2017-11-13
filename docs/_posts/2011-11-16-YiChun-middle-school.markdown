@@ -5,7 +5,7 @@ date:   2011-11-16 21:47
 categories: Diary
 ---
 
-![](http://pic.yupoo.com/mygoare_v/BwuuRyFk/medium.jpg)
+![](https://i.imgur.com/HDUZcvS.jpg)
 
 晚上，无意之间在Q空间里看到高中好友易国丁分享的《宜春中学》的视频，那里也曾经是自己的母校，对我来说，那也是我独立的最后一站。
 

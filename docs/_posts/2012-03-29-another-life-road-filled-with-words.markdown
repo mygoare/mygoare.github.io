@@ -5,7 +5,7 @@ date:   2012-3-29 15:48
 categories: Diary
 ---
 
-![rework](http://farm8.staticflickr.com/7202/7026103647_21fd2ec886_z.jpg)
+![rework](https://i.imgur.com/DgS1nSP.jpg)
 
 很久不曾碰过blog了，大都会写在evernote和日记本上，因为在那些地方写得可以很随意，不用像blog这样梳理思路，组织语言。但现在，还是想会上来写些东西，写出来，算是一种分享吧。
 

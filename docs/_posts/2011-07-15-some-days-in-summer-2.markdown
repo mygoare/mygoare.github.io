@@ -5,7 +5,7 @@ date:   2011-7-15 21:39
 categories: Diary
 ---
 
-![暑假小记](http://pic.yupoo.com/mygoare_v/BdD9ADGL/medium.jpg)
+![暑假小记](https://i.imgur.com/cEKxapJ.jpg)
 
 又4、5天没来更新博客了，总感觉这些天都有些瞎忙的味道在里面，做事没个计划什么的。 
 

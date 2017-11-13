@@ -5,7 +5,7 @@ date:   2011-06-26 18:55
 categories: Diary
 ---
 
-![杂谈微博](http://pic.yupoo.com/mygoare_v/BaIZi7v8/medium.jpg)
+![杂谈微博](https://i.imgur.com/BmHG4V2.jpg)
 
 今天上新浪微博出桌面客户端了，遥想微博也有一段的发展历史了，突然想来杂谈几句。
 

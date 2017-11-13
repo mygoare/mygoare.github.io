@@ -5,7 +5,7 @@ date:   2012-7-22 10:55
 categories: Diary
 ---
 
-![](http://pic.yupoo.com/mygoare_v/C8iuXaYh/medium.jpg)
+![](https://i.imgur.com/Ztr8c46.jpg)
 
 大都市的周末，静静地躺在床上，若有所思的样子，回想那时的那些曾经。
 

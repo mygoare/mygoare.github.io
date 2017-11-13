@@ -5,7 +5,7 @@ date:   2011-10-5 21:56
 categories: Diary
 ---
 
-![蹭网之路](http://pic.yupoo.com/mygoare_v/Bn43nMg6/medium.jpg)
+![蹭网之路](https://i.imgur.com/6Sn2QFm.jpg)
 
 哈哈，现在我要发表一下演讲：女士们，先生们，我怀着无比激动的心情告诉大家，民大校园网已经被攻克，校园网安腾客户端已经破解，民大的蹭网时代也到来了！而我在写这篇日志之时，已在蹭网中...
 

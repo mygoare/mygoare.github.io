@@ -5,7 +5,7 @@ date:   2011-11-29 13:40
 categories: Diary
 ---
 
-![](http://pic.yupoo.com/mygoare_v/ByqtQceT/medium.jpg)
+![](https://i.imgur.com/vSGEH21.jpg)
 
 不知不觉又到月末了，11月快过了，马上就是12月份，然后随之而来的就是放假春节。。。
 

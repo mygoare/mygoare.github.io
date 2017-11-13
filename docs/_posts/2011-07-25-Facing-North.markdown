@@ -5,7 +5,7 @@ date:   2011-7-25 15:32
 categories: Diary
 ---
 
-![Facing North 一路向北](http://pic.yupoo.com/mygoare_v/Bf6KSMW5/medium.jpg)
+![Facing North 一路向北](https://i.imgur.com/aO7kYRc.jpg)
 
 一切基本OK，开始北漂了，目的地：首都北京！ 
 
