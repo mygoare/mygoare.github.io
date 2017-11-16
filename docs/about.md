@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+此博大体上是大学时期的记忆留存，对于近况，只会偶尔更新。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+---
 
+计算机毕业，野生自学前端，后端也写写。
 
-[jekyll-organization]: https://github.com/jekyll
+09年在大学图书馆用 Microsoft Frontpage 写了第一个网站，觉得很有意思，感觉自己能做别人做不来的事情，遂逐渐自学，渐渐深入。在学校参加过、参与组建过技术团队一起提高进步。
+
+毕业了，还蛮幸运，没有遇到很奇葩很不靠谱很坏的人和公司。*社会上呆久了，才感觉到朋友的温暖度；被人坑过了，才体会到对人的信任是多么珍贵的东西。*
+
+喜好骑行，徒步，亲近大自然。
+
+**生活如人饮水，冷暖自知。**
