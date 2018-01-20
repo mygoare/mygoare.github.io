@@ -177,6 +177,38 @@
  */
 .page-content {
   padding: $spacing-unit 0;
+
+  a {
+    position: relative;
+    // color: #000;
+    text-decoration: none;
+
+    &:hover {
+      // color: #000;
+      text-decoration: none;
+    }
+
+    &:before {
+      content: "";
+      position: absolute;
+      width: 100%;
+      height: 2px;
+      bottom: -2px;
+      left: 0;
+      background-color: #000;
+      visibility: hidden;
+      -webkit-transform: scaleX(0);
+      transform: scaleX(0);
+      -webkit-transition: all 0.1s ease-in-out 0s;
+      transition: all 0.1s ease-in-out 0s;
+    }
+
+    &:hover:before {
+      visibility: visible;
+      -webkit-transform: scaleX(1);
+      transform: scaleX(1);
+    }
+  }
 }
 
 .page-heading {
@@ -191,6 +223,12 @@
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
+
+  time {
+    background-color: #111;
+    color: white;
+    padding: .5em;
+  }
 }
 
 .post-link {
