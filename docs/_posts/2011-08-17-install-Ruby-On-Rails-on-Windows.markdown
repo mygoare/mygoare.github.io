@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "在Windows下安装Ruby On Rails ( 8月30日更新 )"
+title:  "在Windows下安装Ruby On Rails"
 date:   2011-8-17 22:47
 categories: Tech
 ---
