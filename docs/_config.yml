@@ -18,8 +18,8 @@ email: ''
 description: '做一个有想法的程序员，做一个属于自己的神器' # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mygoare
-github_username:  mygoare
+twitter_username: 
+github_username:  
 highlighter: rouge
 
 timezone: Asia/Chongqing
