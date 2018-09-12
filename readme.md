@@ -11,5 +11,7 @@ Tips:
 
 
 How to start:
+
 cd docs/
+
 jekyll s

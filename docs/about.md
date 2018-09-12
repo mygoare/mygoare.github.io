@@ -35,6 +35,8 @@ permalink: /about/
 
 * 翻墙开发板（基于香橙派、树莓派，理论上可以任何 linux 机器）
 
+    >   [nearby网关 manual](https://www.evernote.com/l/ACFHr_nGP1xL_aHhScGSUK2x2OQMOUQiTAk)
+
     >   ![](https://i.imgur.com/jwQilye.png)
 
     >   作为网关使用，智能区分国内外流量，不用国内国外来回开关代理软件，配合路由器使用更佳，所有路由器终端设备都可无需任何配置，直接自由访问任何网站，让人感觉不到墙的存在
