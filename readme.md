@@ -12,6 +12,6 @@ Tips:
 
 How to start:
 
-cd docs/
+`cd docs/`
 
-jekyll s
+`jekyll s`
