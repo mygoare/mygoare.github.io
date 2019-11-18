@@ -10,16 +10,17 @@ permalink: /about/
 
 喜好骑行，徒步
 
-邮箱：mygoare@gmail dot com
+[<i class="fas fa-envelope"></i> mygoare@gmail.com](mailto:mygoare@gmail.com)
 
-欢迎联系：
-[Github](https://github.com/mygoare)
-[Twitter](https://twitter.com/mygoare)
-[Telegram](https://t.me/mygoare)
+[<i class="fab fa-github"></i> mygoare](https://github.com/mygoare)
+
+[<i class="fab fa-twitter"></i> mygoare](https://twitter.com/mygoare)
+
+[<i class="fab fa-telegram"></i> mygoare](https://t.me/mygoare)
 
 ---
 
-#### 做过的一些东西：
+### 做过的一些东西：
 
 * 小程序 (上海地铁厕所信息检索)
 
