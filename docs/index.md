@@ -21,7 +21,7 @@ layout: home
 ### 折腾的还能用的一些的东西：
 
   1. 小程序 -- 上海地铁找厕所
-      >  ![](https://i.imgur.com/oNAIBE3.jpg)
+      >  ![](https://i.loli.net/2021/05/20/pjxuSJb4TylFOt7.png)
   2. 搭建无污染DNS，&& 科学上网网关
   3. 联ban举报网站，[bfban.com](https://bfban.com)
 
