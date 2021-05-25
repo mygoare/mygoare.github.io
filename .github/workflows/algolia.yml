@@ -1,0 +1,21 @@
+name: jekyll algolia 
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  algolia:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: set up ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+
+      - name: jekyll algolia
+        run: cd docs
+        run: bundle exec jekyll algolia
