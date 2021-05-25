@@ -7,8 +7,8 @@ on:
 
 jobs:
   algolia:
-    environment:
-      name: github-pages
+    env:
+      ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
     runs-on: ubuntu-latest
 
     steps:
