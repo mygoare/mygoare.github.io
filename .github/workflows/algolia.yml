@@ -1,4 +1,4 @@
-name: jekyll algolia 
+name: deploy jekyll algolia
 on:
   push:
     branches: [master]
@@ -12,12 +12,18 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v2
+        
       - name: set up ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.6
+          bundler-cache: true
+
+      - name: set up env
+        run: |
+          cd docs
+          bundle install
 
       - name: jekyll algolia
         run: |
-          cd docs
           bundle exec jekyll algolia
