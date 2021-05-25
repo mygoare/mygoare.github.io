@@ -18,6 +18,10 @@
   margin-bottom: 0;
   float: left;
 
+  sub {
+    @include relative-font-size(0.8);
+  }
+
   &,
   &:visited {
     color: $grey-color-dark;

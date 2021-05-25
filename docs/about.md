@@ -4,50 +4,37 @@ title: About
 permalink: /about/
 ---
 
-91年生，08年大学，13年毕业
+程序员，主要写 javascript，全干工程师；
 
-大学念的计算机，现在大多写写 web 相关的东西、兴趣或是一些想法
+目前在合肥，喜欢写代码，瞎折腾
 
-喜好骑行，徒步
+* Gmail: mygoare at gmail.com
 
-[<i class="fas fa-envelope"></i> mygoare@gmail.com](mailto:mygoare@gmail.com)
+* Wechat: mygoare
 
-[<i class="fab fa-github"></i> mygoare](https://github.com/mygoare)
+* QQ: 857183210
 
-[<i class="fab fa-twitter"></i> mygoare](https://twitter.com/mygoare)
+* Github: [mygoare](https://github.com/mygoare)
 
-[<i class="fab fa-telegram"></i> mygoare](https://t.me/mygoare)
 
----
+### 折腾的还能用的一些的东西：
 
-### 做过的一些东西：
+  1. 小程序 -- 上海地铁找厕所
 
-* 小程序 (上海地铁厕所信息检索)
+      > ![](https://i.loli.net/2021/05/20/pjxuSJb4TylFOt7.png)
 
-    >   ![](https://i.imgur.com/oNAIBE3.jpg)
+  2. 搭建无污染DNS，&& 科学上网网关
+  3. 联ban举报网站，[bfban.com](https://bfban.com)
 
-* 国内优化无污染 DNS，DNS ip 请私信
+### 折腾过的已不能用的：
 
-    >   国内域名网站给到国内 ip，国外域名网站给到无污染正确 ip
+  * <del>树莓派（物联网）音乐播放器</del>
+  * <del>基于socket.io 的聊天室</del>
+  * <del>youtube视频下载链接获取站</del>
+  * <del>战地一私股网页管理网站，踢人，换地图等等同功能</del>
 
-* 解析 youtube 视频下载地址，并提供国内无需翻墙高速下载 youtube 视频
+### 正在折腾的：
 
-    >   [yt.mygoare.com](http://yt.mygoare.com)
+  * 泛听英语fm，主流的bbc，npr之类的radio在线收听，练习英语
 
-* 科学上网网关（特别适合家庭或小型局域网内无痛无需任何设置扶墙畅游互联网）
-
-    >   直接连上wifi，然后刷着tiwtter、听着网易云音乐，网络本该如此！
-    >
-    >   自己开发及测试稳定运行在 orangePi、raspberryPi 和 debian 虚拟机 中，理论上可以跑在任何 linux 机器上
-    >
-    >   [nearby网关 manual](https://www.evernote.com/l/ACFHr_nGP1xL_aHhScGSUK2x2OQMOUQiTAk)
-    >
-    >   ![](https://i.imgur.com/jwQilye.png)
-    >
-    >   作为网关使用，智能区分国内外流量，不用国内国外来回开关代理软件，配合路由器使用更佳，所有路由器终端设备都可无需任何配置，直接自由访问任何网站，让人感觉不到墙的存在
-
-* [战地风云](https://www.ea.com/en-gb/games/battlefield) 非官方外挂举报、检索、处理平台，为私服 ban list 提供依据
-    
-    >   bfban: [https://bfban.com](https://bfban.com)
-    >
-    >   ![](https://i.imgur.com/WcoNG7d.png)
+## [支持我持续折腾](https://dun.mianbaoduo.com/@mygoare)
