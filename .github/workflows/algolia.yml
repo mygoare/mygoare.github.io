@@ -17,5 +17,5 @@ jobs:
           ruby-version: 2.6
 
       - name: jekyll algolia
-        run: cd docs
-        run: bundle exec jekyll algolia
+      - run: cd docs
+      - run: bundle exec jekyll algolia
