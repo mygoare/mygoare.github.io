@@ -6,7 +6,7 @@ permalink: /about/
 
 程序员，主要写 javascript，全干工程师；
 
-目前在合肥，喜欢写代码，瞎折腾
+目前在霸都，喜欢写代码，瞎折腾
 
 * Gmail: mygoare at gmail.com
 
