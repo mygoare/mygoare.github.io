@@ -10,8 +10,6 @@ permalink: /about/
 
 * Gmail: mygoare at gmail.com
 
-* Wechat: mygoare
-
 * QQ: 857183210
 
 * Github: [mygoare](https://github.com/mygoare)
