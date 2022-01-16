@@ -31,6 +31,7 @@ google_analytics: 'UA-37219536-3'
 markdown: kramdown
 kramdown:
   gfm_quirks: [paragraph_end]
+  hard_wrap: true
 # theme: minima
 
 algolia:
