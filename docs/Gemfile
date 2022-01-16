@@ -32,3 +32,5 @@ gem "nokogiri", ">= 1.10.4"
 group :jekyll_plugins do
   gem 'jekyll-algolia'
 end
+
+gem 'kramdown-parser-gfm'
