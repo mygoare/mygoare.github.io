@@ -29,6 +29,8 @@ google_analytics: 'UA-37219536-3'
 
 # Build settings
 markdown: kramdown
+kramdown:
+  gfm_quirks: [paragraph_end]
 # theme: minima
 
 algolia:
