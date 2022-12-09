@@ -196,7 +196,7 @@
       height: 2px;
       bottom: -2px;
       left: 0;
-      background-color: #111;
+      background-color: $text-color;
       visibility: hidden;
       -webkit-transform: scaleX(0);
       transform: scaleX(0);
@@ -227,7 +227,7 @@
   color: $grey-color;
 
   time {
-    background-color: #111;
+    background-color: $text-color;
     color: white;
     padding: .5em;
   }
