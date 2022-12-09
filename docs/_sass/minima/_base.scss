@@ -110,8 +110,12 @@ a {
   }
 
   &:hover {
-    color: $text-color;
+    color: lighten($text-color, 20%);
     // text-decoration: underline;
+    background-image: linear-gradient(90.68deg,#43cbff .26%,#e5337e 102.37%);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
   }
 
   .social-media-list &:hover {
