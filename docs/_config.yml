@@ -34,11 +34,6 @@ kramdown:
   hard_wrap: true
 # theme: minima
 
-algolia:
-  application_id: 'LY748IGJ3M'
-  index_name: 'jekyll_blog'
-  search_only_api_key: '28a5746d2edc81d670eb1382ee6eb161'
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
