@@ -1,0 +1,33 @@
+{{- /* footer 版权年份：用脚本取当年年份 */}}
+<script>
+  (function () {
+    var el = document.getElementById("copyright-year");
+    if (el) el.textContent = new Date().getFullYear();
+  })();
+</script>
+
+{{- /* 保留原站左右键切换上/下一篇的功能 */}}
+{{- if .IsPage }}
+{{- $prev := .PrevInSection }}
+{{- $next := .NextInSection }}
+{{- if or $prev $next }}
+<script>
+(function () {
+  function hasEditableTarget(e) {
+    const t = e.target;
+    return t && (t.tagName === "INPUT" || t.tagName === "TEXTAREA" || t.isContentEditable);
+  }
+  document.addEventListener("keydown", function (e) {
+    if (hasEditableTarget(e)) return;
+    var prev = document.querySelector(".paginav a.prev");
+    var next = document.querySelector(".paginav a.next");
+    if ((e.key === "ArrowLeft" || e.key === "h" || e.key === "H") && prev) {
+      window.location.href = prev.getAttribute("href");
+    } else if ((e.key === "ArrowRight" || e.key === "l" || e.key === "L") && next) {
+      window.location.href = next.getAttribute("href");
+    }
+  });
+})();
+</script>
+{{- end }}
+{{- end }}

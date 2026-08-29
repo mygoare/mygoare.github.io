@@ -1,6 +1,6 @@
-_site
-.sass-cache
-.jekyll-metadata
+public/
+.hugo_build.lock
+resources/_gen/
 .idea
 
 _algolia_api_key

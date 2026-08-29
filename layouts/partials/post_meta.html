@@ -1,0 +1,30 @@
+{{- $scratch := newScratch }}
+
+{{- if not .Date.IsZero -}}
+    {{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) (.Date | time.Format (default ":date_long" site.Params.DateFormat)))) }}
+{{- end }}
+
+{{- /* 中英都准确的字数统计：汉字逐字计数 + 英文/数字按单词计数 */}}
+{{- $plain := .Plain }}
+{{- $wc := len (findRE `\p{Han}` $plain) }}
+{{- $wc = add $wc (len (findRE `[A-Za-z0-9]+` $plain)) }}
+
+{{- if (.Param "ShowReadingTime") -}}
+    {{- $rt := 1 }}
+    {{- if gt $wc 200 }}{{ $rt = div (add $wc 199) 200 }}{{ end }}
+    {{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (i18n "read_time" $rt | default (printf "%d min" $rt)))) }}
+{{- end }}
+
+{{- if (.Param "ShowWordCount") -}}
+    {{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (i18n "words" $wc | default (printf "%d words" $wc)))) }}
+{{- end }}
+
+{{- if not (.Param "hideAuthor") -}}
+    {{- with (partial "author.html" .) }}
+        {{- $scratch.Add "meta" (slice (printf "<span>%s</span>" .)) }}
+    {{- end }}
+{{- end }}
+
+{{- with ($scratch.Get "meta") }}
+    {{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
+{{- end -}}

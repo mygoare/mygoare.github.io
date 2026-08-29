@@ -1,0 +1,57 @@
+baseURL = "https://mygoare.github.io/"
+title = "Gore's Blog"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"
+theme = "PaperMod"
+enableRobotsTXT = true
+timeZone = "Asia/Chongqing"
+copyright = '''© 2010 - <span id="copyright-year"></span> Gore's Blog'''
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  description = "程序员 徒步 自驾"
+  mainSections = ["posts"]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowWordCount = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowFullTextinRSS = true
+  DateFormat = "2006-01-02"
+  disableSpecial1stPost = true
+
+  [params.assets]
+    favicon = "/favicon.ico"
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
+
+[[menu.main]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "archives"
+  name = "Archives"
+  url = "/archives/"
+  weight = 20
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    noClasses = false
