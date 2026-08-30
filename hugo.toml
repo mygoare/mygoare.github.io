@@ -5,7 +5,7 @@ defaultContentLanguage = "zh-cn"
 theme = "PaperMod"
 enableRobotsTXT = true
 timeZone = "Asia/Chongqing"
-copyright = '''© 2010 - <span id="copyright-year"></span> Gore's Blog'''
+copyright = '''© 2009 - <span id="copyright-year"></span> Gore's Blog'''
 
 [pagination]
   pagerSize = 10
