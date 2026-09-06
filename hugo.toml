@@ -50,6 +50,12 @@ copyright = '''© 2009 - <span id="copyright-year"></span> Gore's Blog'''
   url = "/archives/"
   weight = 20
 
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 30
+
 [markup]
   [markup.goldmark.renderer]
     unsafe = true
